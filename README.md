@@ -1,4 +1,4 @@
-# practica-6-granulometria_ICA1A
+# practica-6-al079926_granulometria_ICA1A
 #Análisis Granulométrico Automatizado con Python
 
 Práctica 5 – Modelado de Problemas en Ingeniería Civil
